@@ -1,7 +1,7 @@
 {
   "name": "react_starter_kit",
-  "version": "0.0.0",
-  "description": "Start your React.js App from here!",
+  "version": "0.0.2",
+  "description": "start your react.js app from here!",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bower": "^1.7.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3"
   },
